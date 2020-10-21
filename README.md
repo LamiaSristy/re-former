@@ -4,8 +4,8 @@ This project is a description of the multiple ways to build a form in rails that
 
 ## Build-With
 
-- Ruby
-- Rails
+- Ruby -v 2.7.1
+- Rails -v 5.2.4.4
 - SQLite3
 - VScode
 
