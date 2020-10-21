@@ -22,12 +22,11 @@ To get this project up and running locally, you must already have ruby and neces
 3. Copy and paste the following code into the Terminal: git clone https://github.com/LamiaSristy/re-former
 4. Run ```cd re-former```.
 5. Run ```bundle install``` to get the necesary gems.
+6. Run `rails db:create`.
 6. Run `rails db:migrate`.
 
 
 ## Author Details::
-
-👤 **Lamia## Author Details::
 
 👤 **Lamia Sristy**
 
